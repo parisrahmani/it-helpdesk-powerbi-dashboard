@@ -7,6 +7,9 @@ This project analyzes IT help desk issue data to evaluate service demand, resolu
 ## Project Context
 Designed as an executive-level dashboard for IT Services leadership to monitor issue trends, resolution performance, and process efficiency.
 
+## Dashboard Features
+- Interactive Power BI dashboard with slicers for year and priority to explore trends and performance metrics dynamically.
+
 ## 🔍 Key Questions Answered
 - How does issue volume change over time?
 - Are issues being resolved efficiently?
