@@ -2,7 +2,7 @@
 
 ## Dataset Origin
 The dataset was created as part of an academic study involving a help desk team at an international software company. It represents aggregated issue records extracted from a PostgreSQL database.
-[DataSet]([url](https://data.mendeley.com/datasets/btm76zndnt/2)) - issues.csv
+[DataSet](https://data.mendeley.com/datasets/btm76zndnt/2)) - issues.csv
 
 ## Time Coverage
 The dataset includes issue records created between 2007 and 2023. However, consistent and reliable documentation practices began in 2016.
